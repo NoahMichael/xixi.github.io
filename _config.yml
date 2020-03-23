@@ -1,26 +1,25 @@
 title: wu-kan # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  SYSU超算17级在读<br/>
-  永远喜欢水野爱<br/>
-  田宫例四驱车<br/>
+  熙熙爱学习<br/>
+  编程渗透特别爱 <br/>
+  跑酷搏击要具备<br/>
   ASC<br/>
   <a href="mailto:i@wu-kan.cn">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://www.codewars.com/">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
+  <a href="https://xixistudy.coding.net/">
     <i class="fas fa-chart-bar"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
+  <a href="https://www.py4e.com/">
     <i class="fas fa-smile"></i>
   </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
+  <a href="https://www.zhihu.com">
     <i class="fab fa-zhihu"></i>
   </a>
   <iframe
-    src="https://music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
     width=100%
     height=52
     frameborder="no"
